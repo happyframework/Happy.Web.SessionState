@@ -11,8 +11,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Happy.Web.Memcached.WebSite</RootNamespace>
-    <AssemblyName>Happy.Web.Memcached.WebSite</AssemblyName>
+    <RootNamespace>Happy.Web.SessionState.Memcached.WebSite</RootNamespace>
+    <AssemblyName>Happy.Web.SessionState.Memcached.WebSite</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -79,9 +79,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Happy.Web.Memcached\Happy.Web.Memcached.csproj">
+    <ProjectReference Include="..\Happy.Web.SessionState.Memcached\Happy.Web.SessionState.Memcached.csproj">
       <Project>{4419f2e4-4351-4c13-aa9e-cd707aee3e11}</Project>
-      <Name>Happy.Web.Memcached</Name>
+      <Name>Happy.Web.SessionState.Memcached</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

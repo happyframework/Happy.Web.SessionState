@@ -12,7 +12,7 @@ using System.IO;
 using Enyim.Caching;
 using Enyim.Caching.Memcached;
 
-namespace Happy.Web.Memcached
+namespace Happy.Web.SessionState.Memcached
 {
     /// <summary>
     /// 参考网址：

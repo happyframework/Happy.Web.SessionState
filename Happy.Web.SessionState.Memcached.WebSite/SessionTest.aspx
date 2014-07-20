@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SessionTest.aspx.cs" Inherits="Happy.Web.Memcached.WebSite.SessionTest" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SessionTest.aspx.cs" Inherits="Happy.Web.SessionState.Memcached.WebSite.SessionTest" %>
 
 <!DOCTYPE html>
 

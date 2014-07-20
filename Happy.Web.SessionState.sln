@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy.Web.Memcached", "Happy.Web.Memcached\Happy.Web.Memcached.csproj", "{4419F2E4-4351-4C13-AA9E-CD707AEE3E11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy.Web.SessionState.Memcached", "Happy.Web.SessionState.Memcached\Happy.Web.SessionState.Memcached.csproj", "{4419F2E4-4351-4C13-AA9E-CD707AEE3E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy.Web.Memcached.WebSite", "Happy.Web.Memcached.WebSite\Happy.Web.Memcached.WebSite.csproj", "{000D94AB-7C4F-44E0-8B0D-898245F11149}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy.Web.SessionState.Memcached.WebSite", "Happy.Web.SessionState.Memcached.WebSite\Happy.Web.SessionState.Memcached.WebSite.csproj", "{000D94AB-7C4F-44E0-8B0D-898245F11149}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

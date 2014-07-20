@@ -7,8 +7,8 @@
     <ProjectGuid>{4419F2E4-4351-4C13-AA9E-CD707AEE3E11}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Happy.Web.Memcached</RootNamespace>
-    <AssemblyName>Happy.Web.Memcached</AssemblyName>
+    <RootNamespace>Happy.Web.SessionState.Memcached</RootNamespace>
+    <AssemblyName>Happy.Web.SessionState.Memcached</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

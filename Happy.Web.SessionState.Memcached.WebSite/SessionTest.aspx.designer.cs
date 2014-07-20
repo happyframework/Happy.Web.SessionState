@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace Happy.Web.Memcached.WebSite {
+namespace Happy.Web.SessionState.Memcached.WebSite {
     
     
     public partial class SessionTest {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web.SessionState;
 
-namespace Happy.Web.Memcached
+namespace Happy.Web.SessionState.Memcached
 {
     [Serializable]
     internal sealed class SessionData
